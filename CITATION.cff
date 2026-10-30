@@ -4,7 +4,7 @@ title: "AgentGuard-IN: A Layered Defense Framework Against Indirect Prompt Injec
 authors:
   - name: "AgentGuard-IN Research Team"
 year: 2026
-url: "https://github.com/agentguard-in/agentguard-in"
+url: "https://github.com/PrabhuVineeth/agentguard-in"
 type: conference-paper
 conference:
   name: "IEEE International Conference on Artificial Intelligence and Cybersecurity"
@@ -24,3 +24,4 @@ abstract: >-
   asymmetric three-tier triage policy (ALLOW / ESCALATE / BLOCK), cutting attack
   success from 61.6% to 2.4% with 0.0% false-block rate.
 license: Apache-2.0
+

@@ -21,7 +21,7 @@ All contributors and maintainers are expected to adhere to our [Code of Conduct]
 
 ```bash
 # Clone repository
-git clone https://github.com/agentguard-in/agentguard-in.git
+git clone https://github.com/PrabhuVineeth/agentguard-in.git
 cd agentguard-in
 
 # Create and activate virtual environment
@@ -86,3 +86,4 @@ All tests run locally on standard CPU without requiring cloud GPUs or paid exter
 2. Commit your changes with clear, semantic commit messages (`feat: ...`, `fix: ...`, `docs: ...`, `test: ...`).
 3. Ensure the test suite passes 100% (`pytest tests/`).
 4. Submit a Pull Request targeting the `main` branch with a comprehensive description of the changes and empirical verification.
+

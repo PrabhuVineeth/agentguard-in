@@ -111,7 +111,7 @@ Tested across 4 simulated Indian DPI environments with deterministic in-memory s
 
 ```bash
 # Clone the repository
-git clone https://github.com/agentguard-in/agentguard-in.git
+git clone https://github.com/PrabhuVineeth/agentguard-in.git
 cd agentguard-in
 
 # Install dependencies in editable mode
@@ -203,7 +203,7 @@ If you use AgentGuard-IN in your research, please cite our IEEE conference paper
   booktitle = {Proceedings of the IEEE International Conference on Artificial Intelligence and Cybersecurity},
   year      = {2026},
   pages     = {1--6},
-  url       = {https://github.com/agentguard-in/agentguard-in}
+  url       = {https://github.com/PrabhuVineeth/agentguard-in}
 }
 ```
 

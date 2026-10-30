@@ -59,10 +59,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/agentguard-in/agentguard-in"
-Repository = "https://github.com/agentguard-in/agentguard-in.git"
-Paper = "https://github.com/agentguard-in/agentguard-in/tree/main/paper"
-Issues = "https://github.com/agentguard-in/agentguard-in/issues"
+Homepage = "https://github.com/PrabhuVineeth/agentguard-in"
+Repository = "https://github.com/PrabhuVineeth/agentguard-in.git"
+Paper = "https://github.com/PrabhuVineeth/agentguard-in/tree/main/paper"
+Issues = "https://github.com/PrabhuVineeth/agentguard-in/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]
