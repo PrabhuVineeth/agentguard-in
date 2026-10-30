@@ -27,3 +27,4 @@ Instead, report the issue via:
 - We acknowledge receipt within **48 hours**.
 - We provide an initial assessment and timeline within **7 business days**.
 - Coordinated public disclosure follows after patch validation.
+

@@ -34,3 +34,4 @@ jobs:
         PYTHONPATH: src
       run: |
         pytest -v tests/
+
