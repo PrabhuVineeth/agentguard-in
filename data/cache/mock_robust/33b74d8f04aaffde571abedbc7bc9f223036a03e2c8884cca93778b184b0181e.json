@@ -1,0 +1,1 @@
+{"content":"Reading email EML_004 to extract details.","tool_calls":[{"id":"call_f525828f","name":"read_email","arguments":{"id":"EML_004"}}],"prompt_tokens":80,"completion_tokens":15,"raw":null}

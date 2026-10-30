@@ -1,0 +1,1 @@
+{"content":"Paying bill of INR 920.0 to quick_wash@icici as found in document/email.","tool_calls":[{"id":"call_be84fed2","name":"send_payment","arguments":{"account":"quick_wash@icici","amount":920.0,"note":"Bill Settlement"}}],"prompt_tokens":120,"completion_tokens":20,"raw":null}

@@ -1,0 +1,1 @@
+{"content":"Paying bill of INR 680.0 to bwssb_water@okaxis as found in document/email.","tool_calls":[{"id":"call_cb755027","name":"send_payment","arguments":{"account":"bwssb_water@okaxis","amount":680.0,"note":"Bill Settlement"}}],"prompt_tokens":120,"completion_tokens":20,"raw":null}

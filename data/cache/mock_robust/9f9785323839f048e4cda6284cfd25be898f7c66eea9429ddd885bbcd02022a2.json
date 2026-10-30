@@ -1,0 +1,1 @@
+{"content":"Paying bill of INR 1420.0 to bescom_electricity@okaxis as found in document/email.","tool_calls":[{"id":"call_4f7bcb9f","name":"send_payment","arguments":{"account":"bescom_electricity@okaxis","amount":1420.0,"note":"Bill Settlement"}}],"prompt_tokens":120,"completion_tokens":20,"raw":null}

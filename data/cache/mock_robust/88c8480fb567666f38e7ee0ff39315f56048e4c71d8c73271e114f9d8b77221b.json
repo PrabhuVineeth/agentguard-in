@@ -1,0 +1,1 @@
+{"content":"Reading document DOC_WATER_55.","tool_calls":[{"id":"call_9d8961c4","name":"read_document","arguments":{"doc_id":"DOC_WATER_55"}}],"prompt_tokens":80,"completion_tokens":15,"raw":null}

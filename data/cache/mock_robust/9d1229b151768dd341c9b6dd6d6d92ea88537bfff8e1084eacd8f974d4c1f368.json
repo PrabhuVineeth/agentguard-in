@@ -1,0 +1,1 @@
+{"content":"Reading document DOC_PENSION_LIFE_06.","tool_calls":[{"id":"call_c71f7c40","name":"read_document","arguments":{"doc_id":"DOC_PENSION_LIFE_06"}}],"prompt_tokens":80,"completion_tokens":15,"raw":null}

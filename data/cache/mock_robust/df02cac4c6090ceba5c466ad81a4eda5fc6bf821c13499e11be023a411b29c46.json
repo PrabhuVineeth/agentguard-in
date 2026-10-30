@@ -1,0 +1,1 @@
+{"content":"Paying bill of INR 1179.0 to act_broadband@okaxis as found in document/email.","tool_calls":[{"id":"call_25d161c3","name":"send_payment","arguments":{"account":"act_broadband@okaxis","amount":1179.0,"note":"Bill Settlement"}}],"prompt_tokens":120,"completion_tokens":20,"raw":null}

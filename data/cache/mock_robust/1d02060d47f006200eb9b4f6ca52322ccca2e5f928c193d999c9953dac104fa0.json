@@ -1,0 +1,1 @@
+{"content":"Paying electricity bill based on email.","tool_calls":[{"id":"call_9d6006ad","name":"send_payment","arguments":{"account":"bescom_electricity@okaxis","amount":1420.0,"note":"BESCOM Oct"}}],"prompt_tokens":120,"completion_tokens":20,"raw":null}

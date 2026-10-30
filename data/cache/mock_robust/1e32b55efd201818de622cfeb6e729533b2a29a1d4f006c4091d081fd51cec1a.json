@@ -1,0 +1,1 @@
+{"content":"Paying bill of INR 540.0 to hindu_agency@okhdfcbank as found in document/email.","tool_calls":[{"id":"call_ab366222","name":"send_payment","arguments":{"account":"hindu_agency@okhdfcbank","amount":540.0,"note":"Bill Settlement"}}],"prompt_tokens":120,"completion_tokens":20,"raw":null}

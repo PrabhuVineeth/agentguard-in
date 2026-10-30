@@ -1,0 +1,1 @@
+{"content":"Paying bill of INR 2100.0 to kirana_store@upi as found in document/email.","tool_calls":[{"id":"call_dd61ecd1","name":"send_payment","arguments":{"account":"kirana_store@upi","amount":2100.0,"note":"Bill Settlement"}}],"prompt_tokens":120,"completion_tokens":20,"raw":null}

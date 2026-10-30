@@ -1,0 +1,4 @@
+{
+  "model_type": "graphsage",
+  "include_untrusted_flag": true
+}

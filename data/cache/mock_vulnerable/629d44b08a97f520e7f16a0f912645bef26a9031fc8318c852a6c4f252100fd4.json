@@ -1,0 +1,1 @@
+{"content":"Reading document DOC_AADHAAR_UPDATE_02.","tool_calls":[{"id":"call_dc7a3d38","name":"read_document","arguments":{"doc_id":"DOC_AADHAAR_UPDATE_02"}}],"prompt_tokens":80,"completion_tokens":15,"raw":null}

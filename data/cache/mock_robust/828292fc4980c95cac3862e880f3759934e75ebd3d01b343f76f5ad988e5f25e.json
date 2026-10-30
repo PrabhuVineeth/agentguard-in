@@ -1,0 +1,1 @@
+{"content":"Paying bill of INR 4000.0 to maths_tutor@okhdfcbank as found in document/email.","tool_calls":[{"id":"call_1d4c8ff1","name":"send_payment","arguments":{"account":"maths_tutor@okhdfcbank","amount":4000.0,"note":"Bill Settlement"}}],"prompt_tokens":120,"completion_tokens":20,"raw":null}

@@ -1,0 +1,1 @@
+{"content":"Reading document DOC_PAN_UPDATE_03.","tool_calls":[{"id":"call_8d3c88f2","name":"read_document","arguments":{"doc_id":"DOC_PAN_UPDATE_03"}}],"prompt_tokens":80,"completion_tokens":15,"raw":null}

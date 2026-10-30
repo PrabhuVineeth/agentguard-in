@@ -1,0 +1,1 @@
+{"content":"Sending INR 850.0 to auto_rickshaw@paytm.","tool_calls":[{"id":"call_b9ab725c","name":"send_payment","arguments":{"account":"auto_rickshaw@paytm","amount":850.0,"note":"Direct payment"}}],"prompt_tokens":90,"completion_tokens":20,"raw":null}

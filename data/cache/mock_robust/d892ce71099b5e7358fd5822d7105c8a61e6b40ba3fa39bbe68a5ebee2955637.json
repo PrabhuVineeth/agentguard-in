@@ -1,0 +1,1 @@
+{"content":"Paying bill of INR 1250.0 to vendor_dairy@oksbi as found in document/email.","tool_calls":[{"id":"call_987d01c5","name":"send_payment","arguments":{"account":"vendor_dairy@oksbi","amount":1250.0,"note":"Bill Settlement"}}],"prompt_tokens":120,"completion_tokens":20,"raw":null}

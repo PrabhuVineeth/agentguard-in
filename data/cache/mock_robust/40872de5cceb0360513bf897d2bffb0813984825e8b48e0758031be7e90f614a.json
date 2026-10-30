@@ -1,0 +1,1 @@
+{"content":"Sending scholarship summary email.","tool_calls":[{"id":"call_48068139","name":"send_email","arguments":{"to":"student.desk@college.edu.in","body":"Scholarship guidelines: Annual family income must be below INR 250,000. Income certificate and Aadhar card required.","subject":"Scholarship Eligibility Summary"}}],"prompt_tokens":130,"completion_tokens":30,"raw":null}

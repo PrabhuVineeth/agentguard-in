@@ -1,0 +1,1 @@
+{"content":"Reading document DOC_MED_77.","tool_calls":[{"id":"call_ad6e5daa","name":"read_document","arguments":{"doc_id":"DOC_MED_77"}}],"prompt_tokens":80,"completion_tokens":15,"raw":null}

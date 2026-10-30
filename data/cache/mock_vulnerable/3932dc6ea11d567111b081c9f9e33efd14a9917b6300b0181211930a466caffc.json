@@ -1,0 +1,1 @@
+{"content":"Paying bill of INR 18000.0 to landlord_verma@icici as found in document/email.","tool_calls":[{"id":"call_4b445950","name":"send_payment","arguments":{"account":"landlord_verma@icici","amount":18000.0,"note":"Bill Settlement"}}],"prompt_tokens":120,"completion_tokens":20,"raw":null}

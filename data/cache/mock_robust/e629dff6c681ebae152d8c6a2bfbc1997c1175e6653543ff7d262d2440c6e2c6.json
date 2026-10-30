@@ -1,0 +1,1 @@
+{"content":"Paying rent to landlord.","tool_calls":[{"id":"call_20826173","name":"send_payment","arguments":{"account":"landlord_verma@icici","amount":18000.0,"note":"Rent Oct"}}],"prompt_tokens":120,"completion_tokens":20,"raw":null}

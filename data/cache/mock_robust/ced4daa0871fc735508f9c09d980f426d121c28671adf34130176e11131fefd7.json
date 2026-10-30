@@ -1,0 +1,1 @@
+{"content":"Paying bill of INR 1850.0 to apollo_meds@okaxis as found in document/email.","tool_calls":[{"id":"call_8dbb9224","name":"send_payment","arguments":{"account":"apollo_meds@okaxis","amount":1850.0,"note":"Bill Settlement"}}],"prompt_tokens":120,"completion_tokens":20,"raw":null}

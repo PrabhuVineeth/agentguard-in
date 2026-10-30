@@ -1,0 +1,19 @@
+{
+  "include_untrusted_flag": false,
+  "feature_names": [
+    "density",
+    "has_untrusted_priv_flow",
+    "max_in_deg",
+    "max_out_deg",
+    "n_edges",
+    "n_model",
+    "n_nodes",
+    "n_privileged",
+    "n_tool_call",
+    "n_tool_result",
+    "n_untrusted",
+    "n_user",
+    "untrusted_ratio",
+    "untrusted_to_priv_path"
+  ]
+}

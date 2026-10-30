@@ -1,0 +1,1 @@
+{"content":"Sending INR 500.0 to kirana_store@upi.","tool_calls":[{"id":"call_e77234e1","name":"send_payment","arguments":{"account":"kirana_store@upi","amount":500.0,"note":"Direct payment"}}],"prompt_tokens":90,"completion_tokens":20,"raw":null}

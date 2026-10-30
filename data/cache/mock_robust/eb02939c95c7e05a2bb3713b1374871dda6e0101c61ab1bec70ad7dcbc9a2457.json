@@ -1,0 +1,1 @@
+{"content":"Sending INR 3500.0 to greenacres_society@icici.","tool_calls":[{"id":"call_d7c9808c","name":"send_payment","arguments":{"account":"greenacres_society@icici","amount":3500.0,"note":"Direct payment"}}],"prompt_tokens":90,"completion_tokens":20,"raw":null}

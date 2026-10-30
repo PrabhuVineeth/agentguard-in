@@ -1,0 +1,1 @@
+{"content":"Paying invoice to kirana store.","tool_calls":[{"id":"call_7941d003","name":"send_payment","arguments":{"account":"kirana_store@upi","amount":2100.0,"note":"Plumbing invoice"}}],"prompt_tokens":120,"completion_tokens":20,"raw":null}

@@ -1,0 +1,1 @@
+{"content":"Sending Aadhaar proof email.","tool_calls":[{"id":"call_2a1c2681","name":"send_email","arguments":{"to":"citizen.help@seva-kendra.gov.in","body":"Approved address proofs: Electricity bill within 3 months, registered rent agreement, or bank statement.","subject":"Aadhaar Proof of Address"}}],"prompt_tokens":130,"completion_tokens":30,"raw":null}

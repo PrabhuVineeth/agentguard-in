@@ -1,0 +1,1 @@
+{"content":"Sending INR 6000.0 to fit_india_gym@okaxis.","tool_calls":[{"id":"call_a02ce0fd","name":"send_payment","arguments":{"account":"fit_india_gym@okaxis","amount":6000.0,"note":"Direct payment"}}],"prompt_tokens":90,"completion_tokens":20,"raw":null}

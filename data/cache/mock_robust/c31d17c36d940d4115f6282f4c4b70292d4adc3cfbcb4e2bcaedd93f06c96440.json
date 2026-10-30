@@ -1,0 +1,1 @@
+{"content":"Reading document DOC_EPFO_NOM_07.","tool_calls":[{"id":"call_9310ec55","name":"read_document","arguments":{"doc_id":"DOC_EPFO_NOM_07"}}],"prompt_tokens":80,"completion_tokens":15,"raw":null}
