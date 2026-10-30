@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use AgentGuard-IN in your research, please cite it as below."
+title: "AgentGuard-IN: A Layered Defense Framework Against Indirect Prompt Injection on Tool-Using LLM Agents in Indian Digital Public Infrastructure"
+authors:
+  - name: "AgentGuard-IN Research Team"
+year: 2026
+url: "https://github.com/agentguard-in/agentguard-in"
+type: conference-paper
+conference:
+  name: "IEEE International Conference on Artificial Intelligence and Cybersecurity"
+keywords:
+  - "large-language-models"
+  - "ai-agents"
+  - "prompt-injection"
+  - "graph-neural-networks"
+  - "digital-public-infrastructure"
+  - "multilingual-safety"
+  - "upi-security"
+abstract: >-
+  Autonomous tool-using LLM agents operating in Digital Public Infrastructure (DPI)
+  are vulnerable to indirect prompt injection (IPI). AgentGuard-IN provides the
+  first dedicated benchmark and layered defense combining multilingual subword
+  screening, runtime trajectory graph anomaly detection (GraphSAGE), and an
+  asymmetric three-tier triage policy (ALLOW / ESCALATE / BLOCK), cutting attack
+  success from 61.6% to 2.4% with 0.0% false-block rate.
+license: Apache-2.0
