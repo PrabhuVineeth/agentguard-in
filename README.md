@@ -3,7 +3,6 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python Version](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-blue)](https://www.python.org/)
 [![Tests](https://img.shields.io/badge/tests-63%2F63%20passed%20(100%25)-brightgreen.svg)](tests/)
-[![Paper](https://img.shields.io/badge/Paper-IEEE_Conference-red.svg)](paper/main.tex)
 [![Dataset](https://img.shields.io/badge/Benchmark-Kaggle%20%2F%20Deepset%20Real-orange.svg)](data/real_benchmark/)
 
 **AgentGuard-IN** is the first reproducible benchmark and model-agnostic layered defense framework specifically designed to protect autonomous tool-using Large Language Model (LLM) agents against **Indirect Prompt Injection (IPI)** in regional **Digital Public Infrastructure (DPI)** ecosystems.
