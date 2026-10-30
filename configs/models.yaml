@@ -1,0 +1,24 @@
+# Model adapters configuration
+default_provider: "mock"
+default_model: "mock-v1"
+temperature: 0.0
+max_tokens: 512
+providers:
+  mock:
+    class: "agentguard.agents.llm_client.MockLLMAdapter"
+    model_name: "mock-v1"
+  gemini:
+    class: "agentguard.agents.llm_client.GeminiAdapter"
+    model_name: "gemini-1.5-flash"
+    env_key: "GEMINI_API_KEY"
+  openai:
+    class: "agentguard.agents.llm_client.OpenAIAdapter"
+    model_name: "gpt-4o-mini"
+    env_key: "OPENAI_API_KEY"
+  huggingface:
+    class: "agentguard.agents.llm_client.HuggingFaceAdapter"
+    model_name: "google/flan-t5-base"
+  ollama:
+    class: "agentguard.agents.llm_client.OllamaAdapter"
+    model_name: "llama3.2:1b"
+    base_url: "http://localhost:11434"

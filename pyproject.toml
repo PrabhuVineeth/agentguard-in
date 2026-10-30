@@ -1,0 +1,73 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agentguard-in"
+version = "0.1.0"
+description = "AgentGuard-IN: A Layered Defense Framework Against Indirect Prompt Injection on Tool-Using LLM Agents in Indian Digital Public Infrastructure"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "Apache-2.0"}
+authors = [
+    {name = "AgentGuard-IN Research Team", email = "research@agentguard-in.org"}
+]
+keywords = [
+    "large-language-models",
+    "ai-agents",
+    "prompt-injection",
+    "graph-neural-networks",
+    "digital-public-infrastructure",
+    "multilingual-safety",
+    "cybersecurity",
+    "graphsage"
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Security",
+]
+dependencies = [
+    "pydantic>=2.0.0",
+    "pyyaml>=6.0",
+    "requests>=2.28.0",
+    "pandas>=2.0.0",
+    "numpy>=1.24.0",
+    "torch>=2.0.0",
+    "networkx>=3.0",
+    "scikit-learn>=1.2.0",
+    "xgboost>=1.7.0",
+    "transformers>=4.30.0",
+    "groq>=0.9.0",
+    "matplotlib>=3.7.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "pytest-cov>=4.0.0",
+    "pytest-asyncio>=0.21.0",
+    "ruff>=0.1.0",
+    "black>=23.0.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/agentguard-in/agentguard-in"
+Repository = "https://github.com/agentguard-in/agentguard-in.git"
+Paper = "https://github.com/agentguard-in/agentguard-in/tree/main/paper"
+Issues = "https://github.com/agentguard-in/agentguard-in/issues"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+addopts = "-v --strict-markers"

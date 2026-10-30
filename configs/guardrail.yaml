@@ -1,0 +1,21 @@
+# Component B: Text Guardrail Configuration
+model_architecture: "distilbert-base-multilingual-cased"
+model_size: "134M parameters"
+license: "Apache-2.0"
+justification: "Lightweight multilingual architecture with strong cross-lingual transfer across English, Hindi, and Kannada on laptop/Colab CPU/GPU."
+
+hf_baseline_model: "protectai/deberta-v3-base-prompt-injection-v2"
+hf_baseline_license: "Apache-2.0"
+
+training:
+  seed: 42
+  batch_size: 16
+  max_length: 256
+  learning_rate: 2.0e-5
+  num_epochs: 3
+  weight_decay: 0.01
+  classification_threshold: 0.50
+
+threshold_tuning:
+  min_precision: 0.90
+  candidate_thresholds: [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]

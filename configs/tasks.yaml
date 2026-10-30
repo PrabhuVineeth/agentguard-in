@@ -1,0 +1,20 @@
+# Task generation configuration
+seed: 42
+domains:
+  - upi_payment
+  - irctc_ticket
+  - govt_portal
+  - email_assistant
+counts:
+  phase_1_total: 40
+  phase_1_per_domain: 10
+languages:
+  - en
+  - hi
+  - kn
+phase_1_languages:
+  - en
+splits_ratio:
+  train: 0.6
+  val: 0.2
+  test: 0.2
